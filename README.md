@@ -23,7 +23,7 @@
 	输入 sh install.sh,回车
 	等待即可
 	
-	基于 nginx-http-flv-module,感谢!  (https://github.com/winshining/nginx-http-flv-module)
+	感谢!  [nginx-http-flv-module](https://github.com/winshining/nginx-http-flv-module)
 	
 ##智能电视端app
 	
