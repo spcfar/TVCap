@@ -26,3 +26,5 @@
 ##智能电视端app
 	
 	因政策暂不开源
+
+基于 nginx-http-flv-module,感谢!
